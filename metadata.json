@@ -3,7 +3,7 @@
   "symbol": "FRTS",
   "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
   "seller_fee_basis_points": 200,
-  "image": "https://arweave.net/YfSZjF5auach4PL5jFWg3LKZ0yTwf7okySA_io_u9RQ?ext=png",
+  "image": "https://arweave.net/BEj_OlA9Sdpc016TbgAiuxEld3DpT34ISDM55ydAMvo?ext=png",
   "attributes": [
    {
       "trait_type": "Name",
